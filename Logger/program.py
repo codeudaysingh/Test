@@ -7,7 +7,7 @@ import CloudLogger
         
 
 
-def __init__():
+def getlog():
     log = "File"
     
     if log == "File":
@@ -16,14 +16,14 @@ def __init__():
         return CloudLogger()
 
 class LogManager:
-    def __init__(self, logger):
+    def getlog(self, logger):
         self.logger = logger
 
     def write_log(self, message):
         self.logger.write_log(message)
 
 if __name__ == "__main__":
-    log = __init__()
+    log = getlog()
     
     log_manager = LogManager(log)
     
