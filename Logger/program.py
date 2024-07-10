@@ -1,7 +1,7 @@
 import Contract.interface
 import CloudLogger
 
-# class program: Contract.interface.Iloggerlass FileLogger(Contract.interface.Ilogger):
+
     def write_log(self, message):
         print(f"File Logger: {message}")
         
