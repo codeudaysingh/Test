@@ -1,13 +1,12 @@
 import Contract.interface
 import CloudLogger
 
-
+class FileLogger(Contract.interface.Ilogger):
     def write_log(self, message):
         print(f"File Logger: {message}")
         
 
-
-def getlog():
+def get_log():
     log = "File"
     
     if log == "File":
@@ -16,19 +15,20 @@ def getlog():
         return CloudLogger()
 
 class LogManager:
-    def getlog(self, logger):
+    def __init__(self, logger):
         self.logger = logger
 
     def write_log(self, message):
         self.logger.write_log(message)
 
 if __name__ == "__main__":
-    log = getlog()
+    log = get_log()
     
     log_manager = LogManager(log)
     
     log_manager.write_log("Finally Ho gya Kya?")
 
+    print("uday")
 
 
     
