@@ -3,15 +3,13 @@
 array = [56,75,36,367,36]
 print(array[0], array[1], array[2], array[3],array[4])
 
-
+print(array[2]) 
     
-
-
 # def num(a,b):
 input_1 = input("Enter The integer NO.:")
-input_2 =  input("Enter The integer NO.:")
+input_2 =  input("Enter The integer NO.:")  
 try: 
-    print(array[5])
+    
     a = int(input_1)
     b = int(input_2)
     x = a / b
