@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1git\\Shoping Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|d:\\1git\\shoping portal\\shoping portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|solutionrelative:shoping portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|d:\\1git\\shoping portal\\shoping portal\\contract\\ishoppingportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|solutionrelative:shoping portal\\contract\\ishoppingportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|d:\\1git\\shoping portal\\shoping portal\\shoppingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|solutionrelative:shoping portal\\shoppingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|d:\\1git\\shoping portal\\shoping portal\\amazon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|solutionrelative:shoping portal\\amazon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|d:\\1git\\shoping portal\\shoping portal\\flipkart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C546421-3AFA-4647-A8C8-47A8590784E0}|Shoping Portal\\Shoping Portal.csproj|solutionrelative:shoping portal\\flipkart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Amazon.cs",
+              "DocumentMoniker": "D:\\1git\\Shoping Portal\\Shoping Portal\\Amazon.cs",
+              "RelativeDocumentMoniker": "Shoping Portal\\Amazon.cs",
+              "ToolTip": "D:\\1git\\Shoping Portal\\Shoping Portal\\Amazon.cs",
+              "RelativeToolTip": "Shoping Portal\\Amazon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:32:16.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingManager.cs",
+              "DocumentMoniker": "D:\\1git\\Shoping Portal\\Shoping Portal\\ShoppingManager.cs",
+              "RelativeDocumentMoniker": "Shoping Portal\\ShoppingManager.cs",
+              "ToolTip": "D:\\1git\\Shoping Portal\\Shoping Portal\\ShoppingManager.cs",
+              "RelativeToolTip": "Shoping Portal\\ShoppingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:50:57.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flipkart.cs",
+              "DocumentMoniker": "D:\\1git\\Shoping Portal\\Shoping Portal\\Flipkart.cs",
+              "RelativeDocumentMoniker": "Shoping Portal\\Flipkart.cs",
+              "ToolTip": "D:\\1git\\Shoping Portal\\Shoping Portal\\Flipkart.cs",
+              "RelativeToolTip": "Shoping Portal\\Flipkart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:32:37.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShoppingPortal.cs",
+              "DocumentMoniker": "D:\\1git\\Shoping Portal\\Shoping Portal\\Contract\\IShoppingPortal.cs",
+              "RelativeDocumentMoniker": "Shoping Portal\\Contract\\IShoppingPortal.cs",
+              "ToolTip": "D:\\1git\\Shoping Portal\\Shoping Portal\\Contract\\IShoppingPortal.cs",
+              "RelativeToolTip": "Shoping Portal\\Contract\\IShoppingPortal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:21:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1git\\Shoping Portal\\Shoping Portal\\Program.cs",
+              "RelativeDocumentMoniker": "Shoping Portal\\Program.cs",
+              "ToolTip": "D:\\1git\\Shoping Portal\\Shoping Portal\\Program.cs",
+              "RelativeToolTip": "Shoping Portal\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:16:33.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

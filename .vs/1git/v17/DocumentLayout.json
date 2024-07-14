@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\1git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1git\\Logger\\program.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logger\\program.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1git\\ShoppingPortal\\ShoppingPortal\\Contract\\IShoppingPortal.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingPortal\\ShoppingPortal\\Contract\\IShoppingPortal.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1git\\Logger\\Contract\\interface.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logger\\Contract\\interface.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1git\\ShoppingPortal\\ShoppingPortal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingPortal\\ShoppingPortal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1git\\Logger\\CloudLogger.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logger\\CloudLogger.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1git\\uday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IShoppingPortal.cs",
+              "DocumentMoniker": "D:\\1git\\ShoppingPortal\\ShoppingPortal\\Contract\\IShoppingPortal.cs",
+              "RelativeDocumentMoniker": "ShoppingPortal\\ShoppingPortal\\Contract\\IShoppingPortal.cs",
+              "ToolTip": "D:\\1git\\ShoppingPortal\\ShoppingPortal\\Contract\\IShoppingPortal.cs*",
+              "RelativeToolTip": "ShoppingPortal\\ShoppingPortal\\Contract\\IShoppingPortal.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:08:05.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "interface.py",
-              "DocumentMoniker": "D:\\1git\\Logger\\Contract\\interface.py",
-              "RelativeDocumentMoniker": "Logger\\Contract\\interface.py",
-              "ToolTip": "D:\\1git\\Logger\\Contract\\interface.py",
-              "RelativeToolTip": "Logger\\Contract\\interface.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-07-10T18:58:13.437Z",
-              "IsPinned": true,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1git\\ShoppingPortal\\ShoppingPortal\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingPortal\\ShoppingPortal\\Program.cs",
+              "ToolTip": "D:\\1git\\ShoppingPortal\\ShoppingPortal\\Program.cs",
+              "RelativeToolTip": "ShoppingPortal\\ShoppingPortal\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:06:47.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CloudLogger.py",
-              "DocumentMoniker": "D:\\1git\\Logger\\CloudLogger.py",
-              "RelativeDocumentMoniker": "Logger\\CloudLogger.py",
-              "ToolTip": "D:\\1git\\Logger\\CloudLogger.py",
-              "RelativeToolTip": "Logger\\CloudLogger.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-07-10T19:43:42.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "program.py",
-              "DocumentMoniker": "D:\\1git\\Logger\\program.py",
-              "RelativeDocumentMoniker": "Logger\\program.py",
-              "ToolTip": "D:\\1git\\Logger\\program.py",
-              "RelativeToolTip": "Logger\\program.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-07-10T18:51:10.086Z",
-              "EditorCaption": ""
+              "Title": "uday.cs",
+              "DocumentMoniker": "D:\\1git\\uday.cs",
+              "RelativeDocumentMoniker": "uday.cs",
+              "ToolTip": "D:\\1git\\uday.cs",
+              "RelativeToolTip": "uday.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:55:13.171Z"
             }
           ]
         }

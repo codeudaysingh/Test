@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Logger",
-    "\\Logger\\Contract"
+    "\\ShoppingPortal",
+    "\\ShoppingPortal\\ShoppingPortal",
+    "\\ShoppingPortal\\ShoppingPortal\\Contract"
   ],
-  "SelectedNode": "\\Logger\\program.py",
+  "SelectedNode": "\\ShoppingPortal\\ShoppingPortal\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
