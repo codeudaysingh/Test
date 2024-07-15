@@ -1,0 +1,15 @@
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.AssemblyInfoInputs.cache
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.AssemblyInfo.cs
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.csproj.CoreCompileInputs.cache
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.sourcelink.json
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\bin\Debug\net8.0\Assignment_4.exe
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\bin\Debug\net8.0\Assignment_4.deps.json
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\bin\Debug\net8.0\Assignment_4.runtimeconfig.json
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\bin\Debug\net8.0\Assignment_4.dll
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\bin\Debug\net8.0\Assignment_4.pdb
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.dll
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\refint\Assignment_4.dll
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.pdb
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\Assignment_4.genruntimeconfig.cache
+D:\1git\Assignment 1-6\Assignment_4\Assignment_4\obj\Debug\net8.0\ref\Assignment_4.dll

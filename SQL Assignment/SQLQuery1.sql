@@ -31,3 +31,6 @@ group by Name,age
 );
 
 select * from hub.duplicate
+
+delete from hub.duplicate
+where name = 'Ajay'
